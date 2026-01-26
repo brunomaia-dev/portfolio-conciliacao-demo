@@ -39,7 +39,7 @@
 ![Relatório Excel](assets/screenshot-excel.png)
 
 ### Portal de Pagamentos (Automação)
-![Portal Fake](assets/screenshot-portal.png)
+![Portal Fake](assets/screenshot-portal.jpg)
 
 ### Pipeline CI/CD
 ![CI Passing](assets/screenshot-ci.png)
@@ -119,7 +119,7 @@ Posso adaptar este sistema para:
 
 ## 📞 **Contato**
 
-- 📧 **Email:** seu-email@exemplo.com
+- 📧 **Email:** br.maiadev@gmail.com
 - 💼 **Instagram profissional:** @brunomaiadev
 
 > 💡 **Respondo em até 24 horas!**
@@ -141,7 +141,7 @@ Posso adaptar este sistema para:
 © 2025 Bruno Maia Dev. Todos os direitos reservados.
 
 **Este é um projeto proprietário.** O código-fonte não está licenciado para uso público.
-Contato para licenciamento comercial: seu-email@exemplo.com
+Contato para licenciamento comercial: br.maiadev@gmail.com
 
 ---
 
