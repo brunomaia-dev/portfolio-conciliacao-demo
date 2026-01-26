@@ -12,11 +12,11 @@
 
 ## 🎥 **Demonstração**
 
-### Vídeo Completo (3 minutos)
-[![Assista no YouTube](assets/thumbnail.png)](https://youtube.com/seu-video)
+### Vídeo Completo (1 minuto e 24 segundos)
 
-### Preview Rápido
-![Demo GIF](assets/demo.gif)
+Clique na imagem abaixo para assistir ao sistema em funcionamento:
+
+[![Assista no YouTube](assets/thumbnail.png)](https://www.youtube.com/watch?v=8SnZvDTkZkY)
 
 ---
 
